@@ -1,0 +1,10 @@
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\bin\Debug\CourseProject_Eselevich.exe.config
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\bin\Debug\CourseProject_Eselevich.exe
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\bin\Debug\CourseProject_Eselevich.pdb
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\obj\Debug\CourseProject_Eselevich.csprojAssemblyReference.cache
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\obj\Debug\CourseProject_Eselevich.Form1.resources
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\obj\Debug\CourseProject_Eselevich.Properties.Resources.resources
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\obj\Debug\CourseProject_Eselevich.csproj.GenerateResource.cache
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\obj\Debug\CourseProject_Eselevich.csproj.CoreCompileInputs.cache
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\obj\Debug\CourseProject_Eselevich.exe
+C:\Users\olego\source\repos\CourseProject_Eselevich\CourseProject_Eselevich\obj\Debug\CourseProject_Eselevich.pdb
